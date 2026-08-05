@@ -17,4 +17,4 @@ exibir_mensagem()
 somar()
 
 nota_final = calcular_media()
-print(f'a nota final do aluno foi {nota_final}') 
+print(f'a nota final do aluno foi {nota_final}')
