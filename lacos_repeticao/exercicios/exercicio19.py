@@ -30,5 +30,4 @@ def menu():
             print("Opção inválida! Tente novamente.")
 
 
-# Chamada da função
 menu()
